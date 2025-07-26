@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Echo Hello Madrid
-        run: echo "Hella
+        run: echo "Hella"
